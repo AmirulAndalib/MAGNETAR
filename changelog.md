@@ -1,9 +1,9 @@
 ## Changelog
 
-- Added Ability to View ML Training Data
-- Fixed Thermal Profiles
-- Fixed Magisk Detection
-- Fixed Profile Notices
-- Fixed FPS Info Log
-- Updated Dependencies
-- Miscellaneous Changes and Improvements
+- Adjusted Process Priorities
+- Adjusted VM Tuning
+- Fixed Undetected App Log Spam
+- Forced Frequency Override
+- Utilized Phantom Process Killer for RAM Management
+- Set Aggressive RAM Management on Sleep Mode
+- Renamed All Corresponding LMK to PPK (Phantom Process Killer)
