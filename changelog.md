@@ -1,9 +1,8 @@
 ## Changelog
 
-- Adjusted Process Priorities
-- Adjusted VM Tuning
+- Adjusted Downscale Factor for Games
+- Fixed Automatic Deletion of Games Specified on Gamelist
 - Fixed Undetected App Log Spam
-- Forced Frequency Override
-- Utilized Phantom Process Killer for RAM Management
-- Set Aggressive RAM Management on Sleep Mode
-- Renamed All Corresponding LMK to PPK (Phantom Process Killer)
+- Fixed Key Checking When Detection Fails
+- Reduced Phantom Process Killer Aggressiveness on Sleep Mode
+- Miscellaneous Fixes and Improvements
